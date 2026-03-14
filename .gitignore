@@ -3,3 +3,6 @@ __pycache__/
 VAE/checkpoints/
 VAE/__pycache__/
 data/celeba/
+
+DDPM/checkpoints/
+DDPM/__pycache__/
