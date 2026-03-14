@@ -5,7 +5,7 @@ import os
 
 # Constants
 LATENT_DIM = 128
-CHECKPOINT_PATH = "./checkpoints/vae_final.pth"
+CHECKPOINT_PATH = "./checkpoints/vae_best.pth"
 OUTPUT_DIR = "./samples"
 NUM_SAMPLES = 64
 
