@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+VAE/checkpoints/
+VAE/__pycache__/
+data/celeba/
